@@ -2,6 +2,10 @@ body {
 	margin: 0;
 	font-family: Helvetica;
 }
+h1 {
+font-weight: lighter;
+color: green;
+}
 
 #logo {
 	height: 80px;
